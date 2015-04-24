@@ -1,0 +1,8 @@
+x = 0
+y = 1
+ex = 2
+ey = 3
+start = 0
+laenge = 0
+min_chng = 1e-20
+max_iter = 30

@@ -1,0 +1,3 @@
+Logfunktion - erledigt 24.04.
+Nachfolgende Umbrüche sollen ignoriert werden
+checken der korrekten Auswertung für nur x Fehler oder nur y Fehler

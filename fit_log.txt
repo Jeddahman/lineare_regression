@@ -1,0 +1,14 @@
+Fitdaten fuer Gerade f = m*x+n:
+m: 2.101849 +- 0.441126
+n: 1.105385 +- 1.060824
+Ausgewertet nach 12 Iterationen, letzte Aenderung: 0.00000e+00
+Guete des Fits (Chi square / r.o.f): 0.056798
+Abbruchkriterium der Iteration: Letzte Aenderung klein genug.
+
+Fitdaten fuer Gerade f = m*x+n:
+m: 2.101849 +- 0.441126
+n: 1.105385 +- 1.060824
+Ausgewertet nach 12 Iterationen, letzte Aenderung: 0.00000e+00
+Guete des Fits (Chi square / r.o.f): 0.056798
+Abbruchkriterium der Iteration: Letzte Aenderung klein genug.
+
